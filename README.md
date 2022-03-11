@@ -60,6 +60,18 @@ function add(x, y) {
 !!! note This is the admonition title
     This is the admonition body
 
+!!! info This is the admonition title
+    This is the admonition body
+
+!!! warning This is the admonition title
+    This is the admonition body
+
+!!! error This is the admonition title
+    This is the admonition body
+
+!!! success This is the admonition title
+    This is the admonition body
+
 ## Marked
 ==marked==
 
