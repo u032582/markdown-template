@@ -36,12 +36,12 @@ export_on_save:
 | ^        | 21  | wqwdq | -    |
 
 ## Images
-@import "mindmap.png"
+@import "assets/mindmap.png"
 
 ---
 
 ## PlantUML
-@import "sequence.puml"
+@import "assets/sequence.puml"
 
 ## code block
 ```javascript {.line-numbers}
